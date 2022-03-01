@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Popup Demo</string>
+    <string name="type_here">Type Here!</string>
+    <string name="create_popup_menu">Create Popup Menu</string>
+</resources>
